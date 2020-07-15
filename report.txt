@@ -1,0 +1,12 @@
+introduction:
+starting any business now is very hard because of the highly competitive markets and this applies to every kind of business
+and ofcourse it is a big problem especially for startups.
+I am trying to solve this problem for a specific scenario which is:
+someone want to open a resturant in crowded city like tokyo, cairo, newyork, ...etc
+ofcourse it would be hard to find the spot that people will go to him in it as there are many restaurants in the area
+and areas without resturants doesn't have restaurants for a reason (like: people don't afford restaurants, not safe, ..etc)
+i will use forsquare data to solve this problem by searching for an area that will make a new restaurant POPULAR.
+
+data:
+i will only use the forsquare data, i will search for resturants and i will get their ratings and delivery id and location 
+so i would be able to analyze their data and ML models to find the best place.
