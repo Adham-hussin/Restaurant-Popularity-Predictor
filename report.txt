@@ -9,4 +9,4 @@ i will use forsquare data to solve this problem by searching for an area that wi
 
 data:
 i will only use the forsquare data, i will search for resturants and i will get their ratings and delivery id and location 
-so i would be able to analyze their data and ML models to find the best place.
+so i would be able to analyze their data and apply ML models to find the best place.
